@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QA1AutomationTests", "QA1AutomationTests.csproj", "{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QA1AutomationTests", "QA1AutomationTests\QA1AutomationTests.csproj", "{FD8F8297-E3B8-45DC-B859-4F2A501DBA29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,36 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8F8297-E3B8-45DC-B859-4F2A501DBA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8F8297-E3B8-45DC-B859-4F2A501DBA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8F8297-E3B8-45DC-B859-4F2A501DBA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8F8297-E3B8-45DC-B859-4F2A501DBA29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
-=======
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QA1AutomationTests", "QA1AutomationTests.csproj", "{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D88D55D6-2E1C-46F8-BAAF-E40CDD5B5B87}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-EndGlobal
->>>>>>> b45bd69e8743b5dae524d2adfd48b13ce133f754
