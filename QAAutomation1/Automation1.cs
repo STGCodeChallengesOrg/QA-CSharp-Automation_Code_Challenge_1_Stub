@@ -10,15 +10,19 @@ namespace QAAutomation1
 
     public class Automation1
     {
-        public IWebDriver driver;
-        public Automation1(IWebDriver driverArg) {
+        
+        public Automation1() {
 
             
         }
                 
         public bool GotoPage(String url, String validationString)
-        {
-            return false;
+        {        //TODO Open browser
+                 //TODO Navigate to pageUrl
+                 //TODO Get actual title of the page
+                 //TODO Verify that actual title matches expectedTitle
+                 //TODO Return result
+            return true;
 
         }
 
