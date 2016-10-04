@@ -1,4 +1,4 @@
-Refer to the Git_Procedure_Step_By_Step document, which contains detailed instructions for accessing code stubs and submitting completed work from/to GitHub.
+"Refer to the Git_Procedure_Step_By_Step document, which contains detailed instructions for accessing code stubs and submitting completed work from/to GitHub." 
 
 QA Automation challenge 1 (go to a site and verify title)  
 
@@ -36,5 +36,5 @@ The URL for the website is "http://www.skiutah.com" and the validation string fo
 
 The result of the GoToPage method should somehow be displayed to the user. (Console message, dialogue box, playing a sound or video clip, flashing lights and bells- whatever you want.)
 
-When you commit your project to the repository, PLEASE include a comment with any important information about your project, such as "Project is built using Maven/Gradle/Ant/whatever," "Requires external Library com.vlasic.pickle.jar" or anything else that is important to compiling or running the project.
+When you commit your project to the repository, PLEASE include a comment with any important information about your project.
 
